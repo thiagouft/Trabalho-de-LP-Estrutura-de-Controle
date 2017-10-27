@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Primos.dir/main.c.o CMakeFiles/Primos.dir/calculos.c.o  -o Primos 

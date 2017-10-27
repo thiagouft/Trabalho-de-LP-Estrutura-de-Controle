@@ -1,0 +1,3 @@
+/home/thiago/CLionProjects/Primos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/thiago/CLionProjects/Primos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thiago/CLionProjects/Primos/cmake-build-debug/CMakeFiles/Primos.dir

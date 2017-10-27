@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thiago/CLionProjects/Primos/calculos.c
+stdio.h
+-
+malloc.h
+-
+
+/home/thiago/CLionProjects/Primos/calculos.h
+stdio.h
+-
+malloc.h
+-
+
+/home/thiago/CLionProjects/Primos/main.c
+time.h
+-
+calculos.h
+/home/thiago/CLionProjects/Primos/calculos.h
+
